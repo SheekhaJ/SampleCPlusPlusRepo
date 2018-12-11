@@ -1,0 +1,5 @@
+Sequence of steps for first-time beginners with Visual Studio Code C++ project
+https://stackoverflow.com/questions/47872250/cant-compile-code-launch-program-program-path-does-not-exist
+
+Another useful article for the same
+https://medium.com/@jerrygoyal/run-debug-intellisense-c-c-in-vscode-within-5-minutes-3ed956e059d6
